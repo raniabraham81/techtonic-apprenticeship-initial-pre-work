@@ -7,3 +7,7 @@
 -Your answer goes here if you struggle with this lesson
 
 Finished my 1st module "Introduction to HTMl and HTML5"
+
+
+### Introduction to CSS
+-Completed Module 2
