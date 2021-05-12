@@ -11,3 +11,6 @@ Finished my 1st module "Introduction to HTMl and HTML5"
 
 ### Introduction to CSS
 -Completed Module 2
+
+### Applied Visual Design
+-Completed Module 3
