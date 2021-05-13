@@ -14,3 +14,9 @@ Finished my 1st module "Introduction to HTMl and HTML5"
 
 ### Applied Visual Design
 -Completed Module 3
+
+### Applied Accessibility
+-Completed Module 4
+
+### Responsive Web Design principles
+-Completed Module 5
