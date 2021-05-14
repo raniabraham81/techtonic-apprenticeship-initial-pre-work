@@ -20,3 +20,6 @@ Finished my 1st module "Introduction to HTMl and HTML5"
 
 ### Responsive Web Design principles
 -Completed Module 5
+
+### Introduction to CSS Flexbox Challenges
+-Completed Module 6
