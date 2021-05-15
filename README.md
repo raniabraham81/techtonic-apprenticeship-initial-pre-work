@@ -26,3 +26,6 @@ Finished my 1st module "Introduction to HTMl and HTML5"
 
 ### Introduction to CSS Grid challenges
 -Completed Module 7
+
+### Introduction to JavaScript
+-Completed Module 8
