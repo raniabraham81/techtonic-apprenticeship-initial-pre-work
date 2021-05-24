@@ -35,3 +35,6 @@ Finished my 1st module "Introduction to HTMl and HTML5"
 
 ### Mock-Up Webpage
 -Completed Menu and Logo
+
+### Mockup About Page design
+-Screenshot of the mock-up
