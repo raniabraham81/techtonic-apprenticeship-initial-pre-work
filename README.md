@@ -32,3 +32,6 @@ Finished my 1st module "Introduction to HTMl and HTML5"
 
 ### Introduction to ES6
 -Completed Module 9
+
+### Mock-Up Webpage
+-Completed Menu and Logo
